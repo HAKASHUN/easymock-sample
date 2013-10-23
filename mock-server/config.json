@@ -13,8 +13,8 @@
         "server": "http://server.com"
     },
     "routes": [
-        "/groups/:groupid",
-        "/groups/:groupid/show",
-        "/groups/:groupid/users/:userid"
+        "/api/groups/:groupid",
+        "/api/groups/:groupid/show",
+        "/api/groups/:groupid/users/:userid"
     ]
 }

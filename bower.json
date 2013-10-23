@@ -1,0 +1,19 @@
+{
+  "name": "easymock-sample",
+  "version": "0.0.0",
+  "homepage": "https://github.com/HAKASHUN/easymock-sample",
+  "authors": [
+    "HAKASHUN"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.0.3"
+  }
+}
